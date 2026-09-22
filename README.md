@@ -61,6 +61,10 @@ ESP32 MicroPython firmware containing the complete NIBP signal-processing pipeli
 
 PC-side Python test transmitter used to send the test pressure data to the ESP32 through UART.
 
+### `Real NIBP Signal Processing on ESP32.pdsprj`
+
+Proteus simulation project used to test the ESP32-based NIBP processing system.
+
 ## Hardware / Simulation
 
 * ESP32
@@ -68,6 +72,14 @@ PC-side Python test transmitter used to send the test pressure data to the ESP32
 * 128×64 GLCD
 * UART
 * Proteus
+
+## Proteus Simulation
+
+![Proteus Simulation](proteus-simulation.png)
+
+## GLCD Result
+
+![GLCD Result](glcd-result.png)
 
 ## Validation Status
 
